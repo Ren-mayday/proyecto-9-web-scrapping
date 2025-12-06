@@ -25,6 +25,17 @@ const scrap = async (url) => {
   } catch (error) {
     console.error("No apareció el popup");
   }
+
+  const arrayProducts = await page.$$(".product-card-wrapper");
+  console.log(arrayProducts);
+
+  for (const product of productList) {
+    let price;
+    let title;
+    let img;
+
+    console.log(product);
+  }
 };
 
 scrap("https://sansarushop.com/collections/pendientes");
