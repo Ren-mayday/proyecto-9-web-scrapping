@@ -1,11 +1,13 @@
 const mongoose = require("mongoose");
+require("dotenv").config();
 
 const connectDB = async () => {
   try {
     await mongoose.connect(process.env.DB_URL);
-    console.log("Conectado con éxito a la BBDD");
+    console.log("✅ Base de datos conectada correctamente");
   } catch (error) {
-    console.log("Error en la conexión de la BBDD", error.message);
+    console.log("❌ Error conectando a la base de datos:", error.message);
+    process.exit(1);
   }
 };
 
