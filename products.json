@@ -1,1 +1,2018 @@
-[{"img":"https://sansarushop.com/cdn/shop/files/54937877969_e3edc3dfb1_o.jpg?v=1764598444&width=533","title":"PENDIENTES ARAVINDA (16MM)","subtitle":"PLATA DE LEY 925","price":"39,00"},{"img":"https://sansarushop.com/cdn/shop/files/54937828828_f4f223cb12_o.jpg?v=1764598468&width=533","title":"PENDIENTES ARAVINDA (16MM)","subtitle":"PLATA BAÑADA EN ORO 22K","price":"49,00"},{"img":"https://sansarushop.com/cdn/shop/files/Pendientes_Blaine_Foto_Blanco.jpg?v=1734092404&width=533","title":"PENDIENTES BLAINE (16MM)","subtitle":"PLATA DE LEY 925","price":"35,00"},{"img":"https://sansarushop.com/cdn/shop/files/Pendientes_Blaine_Oro_Foto_Blancocopia.jpg?v=1734092443&width=533","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""},{"img":"","title":"","subtitle":"","price":""}]
+[
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/vuj.jpg?v=1767774082&width=533",
+    "title": "PENDIENTES ARAVINDA (16MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 36
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Aravinda_Oro_Foto_Blanco.jpg?v=1764598468&width=533",
+    "title": "PENDIENTES ARAVINDA (16MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 44
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Alisha_18mm_Foto_Blanco.jpg?v=1736240693&width=533",
+    "title": "PENDIENTES ALISHA (18MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 27
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Alisha_18mm_Oro_Foto_Blanco.jpg?v=1732804181&width=533",
+    "title": "PENDIENTES ALISHA (18MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 44
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Blaine_Foto_Blanco.jpg?v=1734092404&width=533",
+    "title": "PENDIENTES BLAINE (16MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 26.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Blaine_Oro_Foto_Blancocopia.jpg?v=1734092443&width=533",
+    "title": "PENDIENTES BLAINE (16MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 36
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/53819397380_55a0f794f3_o.jpg?v=1734612791&width=533",
+    "title": "PENDIENTES REVA (14MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 26.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Reva_Oro_Foto_Blanco.jpg?v=1749106654&width=533",
+    "title": "PENDIENTES REVA (14MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 36
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Tesara_Foto_Blanco.jpg?v=1752573414&width=533",
+    "title": "PENDIENTES TESARA",
+    "subtitle": "BAÑADO EN PLATA 925",
+    "price": 33
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Tesara_Oro_Foto_Blanco.jpg?v=1752573458&width=533",
+    "title": "PENDIENTES TESARA",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 39
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pendientes-kalpana.jpg?v=1722517635&width=533",
+    "title": "PENDIENTES KALPANA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 31.5
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pendientes-kalpana-oro.jpg?v=1704983765&width=533",
+    "title": "PENDIENTES KALPANA",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 33
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Dergh_Fondo_Blanco.jpg?v=1742986698&width=533",
+    "title": "PENDIENTES DERGH (20MM)",
+    "subtitle": "BAÑADO EN PLATA 925",
+    "price": 36
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Dergh_Oro_Fondo_Blanco.jpg?v=1742986841&width=533",
+    "title": "PENDIENTES DERGH (20MM)",
+    "subtitle": "BAÑADO EN ORO DE 22K",
+    "price": 44
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/54632597734_04d62d13b4_o.jpg?v=1752747542&width=533",
+    "title": "PACK JARANA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 28
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jarana_Oro_Foto_Blanco.jpg?v=1752573199&width=533",
+    "title": "PACK JARANA",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 31.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/PENDIENTES-PAR-SOL-FUNDIDO-1193.jpg?v=1747207298&width=533",
+    "title": "PENDIENTES PIGALANA",
+    "subtitle": "BAÑADO EN PLATA 925",
+    "price": 38.35
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/PENDIENTES-PAR-SOL-FUNDIDO-ORO1197.jpg?v=1747207326&width=533",
+    "title": "PENDIENTES PIGALANA",
+    "subtitle": "BAÑADO EN ORO DE 22K",
+    "price": 41.4
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Alisha_30MM_foto_Blanco.jpg?v=1764598366&width=533",
+    "title": "PENDIENTES ALISHA (30MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 44.1
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Alisha_30MM_Oro_foto_Blanco.jpg?v=1764598402&width=533",
+    "title": "PENDIENTES ALISHA (30MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 62.1
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Karara_Fondo_Blanco.jpg?v=1742987003&width=533",
+    "title": "PENDIENTES KARARA (18MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 55.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Karara_Oro_Fondo_Blanco.jpg?v=1742987145&width=533",
+    "title": "PENDIENTES KARARA (18MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 63.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Vistar_Fondo_Blanco_ae6a00f3-aee2-4e64-a20f-5720dca4934b.jpg?v=1742984344&width=533",
+    "title": "PENDIENTES VISTAR (16MM)",
+    "subtitle": "BAÑADO EN PLATA 925",
+    "price": 44
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Vistar_Oro_Fondo_Blanco_a5b65a94-4ba6-448e-bf1e-704a4e3174c2.jpg?v=1742984114&width=533",
+    "title": "PENDIENTES VISTAR (16MM)",
+    "subtitle": "BAÑADO EN ORO DE 22K",
+    "price": 52
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Vistari_Foto_Blanco.jpg?v=1752573562&width=533",
+    "title": "PENDIENTES VISTARI",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 46.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Vistari_Oro_Foto_Blanco.jpg?v=1752573629&width=533",
+    "title": "PENDIENTES VISTARI",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 55.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Babar_20mm_Foto_Blanco.jpg?v=1754374934&width=533",
+    "title": "PENDIENTES BABAR (20MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 55.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Babar_20mm_Oro_Foto_Blanco.jpg?v=1754374971&width=533",
+    "title": "PENDIENTES BABAR (20MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 63.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jaivik_Foto_Blanco.jpg?v=1759498586&width=533",
+    "title": "PENDIENTES JAIVIK",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 41.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jaivik_Oro_Foto_Blanco.jpg?v=1759498616&width=533",
+    "title": "PENDIENTES JAIVIK",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 50.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Gend_Foto_Blanco.jpg?v=1758202353&width=533",
+    "title": "PENDIENTES GEND (14MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 21.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Gend_Oro_Foto_Blanco.jpg?v=1758202364&width=533",
+    "title": "PENDIENTES GEND (14MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 31.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/PendientesEzilPlata.jpg?v=1762267231&width=533",
+    "title": "PENDIENTES EZHIL (35MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 44
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/ezhil1-min.jpg?v=1734092289&width=533",
+    "title": "PENDIENTES EZHIL (35MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 52
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Penidente_Sansa_Foto_Blanco.jpg?v=1749106575&width=533",
+    "title": "PENDIENTES SANSA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 20
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Penidente_Sansa_Oro_Foto_Blanco.jpg?v=1749106523&width=533",
+    "title": "PENDIENTES SANSA",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 28
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Sheyda_Foto_Blanco.jpg?v=1747047336&width=533",
+    "title": "PENDIENTES SHEYDA (18MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 40.5
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Sheyda_Oro_Foto_Blanco.jpg?v=1747047374&width=533",
+    "title": "PENDIENTES SHEYDA (18MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 24K",
+    "price": 49.5
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/foto1_1a255c03-d697-4e9d-b64e-a1ae4bbd279b.jpg?v=1722517401&width=533",
+    "title": "PENDIENTES IDRIS",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 38.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Idris_Oro_Foto_Blanco.jpg?v=1732704576&width=533",
+    "title": "PENDIENTES IDRIS",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 46.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Dipti_Foto_Blanco.jpg?v=1761640360&width=533",
+    "title": "PENDIENTES DIPTI (11MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 41.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Dipti_Oro_Foto_Blanco.jpg?v=1761640415&width=533",
+    "title": "PENDIENTES DIPTI (11MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 50.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Esha_Foto_Blanco_3907852b-94dc-461b-9648-45ca50adfdc0.jpg?v=1753363381&width=533",
+    "title": "PENDIENTES ESHA (11MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 44
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/54277163778_977406057e_o_ecc1af32-6c33-4e50-ae12-fc7f751bda0e.jpg?v=1739790704&width=533",
+    "title": "PENDIENTES ESHA (11MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 52
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Saitras_Foto_Blanco.jpg?v=1759498655&width=533",
+    "title": "PENDIENTES SAITRAS",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 23.4
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Saitras_Oro_Foto_Blanco.jpg?v=1759498699&width=533",
+    "title": "PENDIENTES SAITRAS",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 29.4
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Firoza_Turquesa_Foto_Blanco.jpg?v=1749106759&width=533",
+    "title": "PENDIENTES FIROZA TURQUESA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 21.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Firoza_Turquesa_Oro_Foto_Blanco.jpg?v=1749106731&width=533",
+    "title": "PENDIENTES FIROZA TURQUESA",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 31.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Firoza_Piedra_Luna_Foto_Blanco.jpg?v=1749111084&width=533",
+    "title": "PENDIENTES FIROZA PIEDRA LUNA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Firoza_Cuarzo_Rosa_Foto_Blanco.jpg?v=1749111055&width=533",
+    "title": "PENDIENTES FIROZA CUARZO ROSA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Turi_Foto_Blanco.jpg?v=1752226109&width=533",
+    "title": "PENDIENTES TIRU (10MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 29.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Turi_Oro_Foto_Blanco.jpg?v=1752226126&width=533",
+    "title": "PENDIENTES TIRU (10MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 38.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/53767690957_976a59a88b_o.jpg?v=1718802709&width=533",
+    "title": "PENDIENTES MUNRU (25MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 62.1
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Munru_Oro_Foto_Bodegon_2.jpg?v=1718802715&width=533",
+    "title": "PENDIENTES MUNRU (25MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 71.1
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Guna_Foto_Blanco.jpg?v=1747905129&width=533",
+    "title": "PENDIENTES GUNA (14MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 44.1
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Guna_Oro_Foto_Blanco_580ccf6e-3167-491b-8527-6597a8ff5463.jpg?v=1747899814&width=533",
+    "title": "PENDIENTES GUNA (14MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 53.1
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Rahasy_Foto_Blanco_43dbba5c-8280-468f-b86d-a1cd757a8f0d.jpg?v=1742295468&width=533",
+    "title": "PENDIENTES RAHASY (16MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 33.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Rahasy_Oro_Foto_Blancocopia_94431623-d308-40c7-94dd-9f498ec9fb38.jpg?v=1742295616&width=533",
+    "title": "PENDIENTES RAHASY (16MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 46.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Kavita_16mm_Foto_Blanco.jpg?v=1752482301&width=533",
+    "title": "PENDIENTES KAVITA (16MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 40.5
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Tirtha_20mm_Foto_Blanco_679afac6-a6d2-49d3-a96f-eff1300642ab.jpg?v=1759307044&width=533",
+    "title": "PENDIENTES TIRTHA (20MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 44.1
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Taad_35MM_Foto_Blanco.jpg?v=1752482542&width=533",
+    "title": "PENDIENTES TAAD (35MM)",
+    "subtitle": "BAÑADO EN PLATA 925",
+    "price": 51.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Taad_35MM_Oro_Foto_Blanco.jpg?v=1752482563&width=533",
+    "title": "PENDIENTES TAAD (35MM)",
+    "subtitle": "BAÑADO EN ORO DE 24K",
+    "price": 63.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pack_Chika_Foto_Blanco.jpg?v=1754300659&width=533",
+    "title": "PACK CHIKA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 29.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pack_Chika_Oro_Foto_Blanco.jpg?v=1763568135&width=533",
+    "title": "PACK CHIKA",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 38.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pack_Raushni_Foto_Blanco.jpg?v=1763568203&width=533",
+    "title": "PACK RAUSHNI",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 29.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pack_Raushni_Oro_Foto_Blanco.jpg?v=1763568219&width=533",
+    "title": "PACK RAUSHNI",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 38.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pack_Nazuk_Foto_Blanco.jpg?v=1763568158&width=533",
+    "title": "PACK NAZUK",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 29.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pack_Nazuk_Oro_Foto_Blanco.jpg?v=1763568177&width=533",
+    "title": "PACK NAZUK",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 38.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pack_Chauda_Foto_Blanco.jpg?v=1763568050&width=533",
+    "title": "PACK CHAUDA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 29.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pack_Chauda_Oro_Foto_Blanco.jpg?v=1763568107&width=533",
+    "title": "PACK CHAUDA",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 38.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Rasatal_Foto_Blanco.jpg?v=1759498531&width=533",
+    "title": "PENDIENTES RASATAL",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 39.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Rasatal_Oro_Foto_Blanco.jpg?v=1759498554&width=533",
+    "title": "PENDIENTES RASATAL",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 35.4
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Teka_Foto_Blanco.jpg?v=1759498817&width=533",
+    "title": "PENDIENTES TEKA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 62.1
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Teka_Oro_Foto_Blanco.jpg?v=1759498836&width=533",
+    "title": "PENDIENTES TEKA",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 71.1
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Taragata_Foto_Blanco.gif?v=1745829588&width=533",
+    "title": "PENDIENTES TARAGATA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 39.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Taragata_Oro_Foto_Blanco.gif?v=1745829629&width=533",
+    "title": "PENDIENTES TARAGATA",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 47.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/53882836965_fab36b7f7a_o.jpg?v=1736236995&width=533",
+    "title": "PENDIENTES VAROUNA (20MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 36.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pendientes-arushi_bab1ba98-5e2b-4dc1-99f0-b7aea84ea499.jpg?v=1741345689&width=533",
+    "title": "PENDIENTES ARUSHI (14MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 28
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Kamala_Amazonita_Foto_Blanco.jpg?v=1758202141&width=533",
+    "title": "PENDIENTES KAMALA AMAZONITA (16MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 46.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Gend_30MM_Foto_Blanco.jpg?v=1747733529&width=533",
+    "title": "PENDIENTES GEND (30MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 35.1
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Maccam_Foto_Blanco.jpg?v=1761903814&width=533",
+    "title": "PENDIENTES MACCAM",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 60
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/PendientesMunruOro1_84816dcb-2dc7-4c43-8b64-ab8ed6f60c1a.jpg?v=1762774984&width=533",
+    "title": "PENDIENTES MACCAM",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 68
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Nadis_Oro_Foto_Blanco.jpg?v=1759498776&width=533",
+    "title": "PENDIENTES NADIS",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 55.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Nadis_Foto_Blanco.jpg?v=1759498742&width=533",
+    "title": "PENDIENTES NADIS",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 47.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/54631303212_b2fd0dfd03_o.jpg?v=1762779619&width=533",
+    "title": "PENDIENTES AKRITI",
+    "subtitle": "BAÑADO EN PLATA 925",
+    "price": 38.5
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Akriti_Oro_Foto_Blanco.jpg?v=1752573323&width=533",
+    "title": "PENDIENTES AKRITI",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 39
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Ishaan_Foto_Blanco.jpg?v=1747903923&width=533",
+    "title": "PENDIENTES ISHAAN PIEDRA LUNA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 29.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Ishaan_Oro_Foto_Blanco.jpg?v=1747903939&width=533",
+    "title": "PENDIENTES ISHAAN PIEDRA LUNA",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 39.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pendientes-sandeep.jpg?v=1704984782&width=533",
+    "title": "PENDIENTES RAGA PIEDRA LUNA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 33.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pendientes-raga.jpg?v=1704986972&width=533",
+    "title": "PENDIENTES RAGA AGATA FUCSIA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 33.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/ratna.jpg?v=1745401515&width=533",
+    "title": "PENDIENTES RATNA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 33.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pendientes-ratna-oro.jpg?v=1704983855&width=533",
+    "title": "PENDIENTES RATNA",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 41.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Boonden_Foto_Blanco.jpg?v=1749106877&width=533",
+    "title": "PENDIENTES BOONDEN",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 55.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Boonden_Oro_Foto_Blanco.jpg?v=1749106854&width=533",
+    "title": "PENDIENTES BOONDEN",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 63.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Dulal_Foto_Blanco_b888feb1-446e-4b48-a509-0ee65604273c.jpg?v=1767624723&width=533",
+    "title": "PENDIENTES DULAL",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 41.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Dulal_Foto_BlancoORO.jpg?v=1759481627&width=533",
+    "title": "PENDIENTES DULAL",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 50.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jabari_12mm_Foto_Blanco.jpg?v=1762785415&width=533",
+    "title": "PENDIENTES JABARI (12MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 26.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/pendientes-baldev.jpg?v=1747383555&width=533",
+    "title": "PENDIENTES BALDEV (15MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 49.5
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Ishani_Fondo_Blanco.jpg?v=1747297169&width=533",
+    "title": "PENDIENTES ISHANI (10MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 29.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/foto7.jpg?v=1722260529&width=533",
+    "title": "PENDIENTES ISHVARA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 55.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Jivana_10mm_Foto_Blanco.jpg?v=1749106974&width=533",
+    "title": "PENDIENTES JIVANA (10MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 16.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Jivana_10mm_Oro_Foto_Blanco.jpg?v=1749106943&width=533",
+    "title": "PENDIENTES JIVANA (10MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Jivana_12mm_Foto_Blanco.jpg?v=1749107117&width=533",
+    "title": "PENDIENTES JIVANA (12MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 15.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Jivana_12mm_Oro_Foto_Blanco.jpg?v=1749106901&width=533",
+    "title": "PENDIENTES JIVANA (12MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jivana_14MM_Foto_Blanco.jpg?v=1749111252&width=533",
+    "title": "PENDIENTES JIVANA (14MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 14.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jivana_14MM_Oro_Foto_Blanco.jpg?v=1749111232&width=533",
+    "title": "PENDIENTES JIVANA (14MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 23.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jivana_16MM_Foto_Blanco.jpg?v=1749111310&width=533",
+    "title": "PENDIENTES JIVANA (16MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 14.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jivana_16MM_Oro_Foto_Blanco.jpg?v=1749111283&width=533",
+    "title": "PENDIENTES JIVANA (16MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 23.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jivana_18MM_Foto_Blanco_690164db-b7bf-418a-85b9-c74d6a47eb15.jpg?v=1749111381&width=533",
+    "title": "PENDIENTES JIVANA (18MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 20
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jivana_18MM_Oro_Foto_Blanco.jpg?v=1749111358&width=533",
+    "title": "PENDIENTES JIVANA (18MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 29.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jivana_20MM_Foto_Blanco.jpg?v=1749111407&width=533",
+    "title": "PENDIENTES JIVANA (20MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 18.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jivana_20MM_Oro_Foto_Blanco.jpg?v=1749722430&width=533",
+    "title": "PENDIENTES JIVANA (20MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 28
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jivana_25MM_Foto_Blanco.jpg?v=1749111427&width=533",
+    "title": "PENDIENTES JIVANA (25MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 21.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jivana_25MM_Oro_Foto_Blanco.jpg?v=1749111447&width=533",
+    "title": "PENDIENTES JIVANA (25MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 31.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jivana_30MM_Foto_Blanco.jpg?v=1749111467&width=533",
+    "title": "PENDIENTES JIVANA (30MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/PENDIENTES_MAHESHA_FOTO_BLANCO.jpg?v=1733828679&width=533",
+    "title": "PENDIENTES MAHESHA (14MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 28
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/PENDIENTES-GONGA-PLATA1200.jpg?v=1747207485&width=533",
+    "title": "PENDIENTES GONGA",
+    "subtitle": "BAÑADO EN PLATA 925",
+    "price": 35.4
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/PENDIENTES-GONGA-ORO1187.jpg?v=1747207510&width=533",
+    "title": "PENDIENTES GONGA",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 51.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pendientes-varun.jpg?v=1738228389&width=533",
+    "title": "PENDIENTES VARUN (12MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 21.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pendientes-varun_9d99d807-3109-447a-9fb3-d7ba082481c7.jpg?v=1704985667&width=533",
+    "title": "PENDIENTES VARUN (12MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 23.4
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Kachhua_Fondo_Blanco.jpg?v=1741078562&width=533",
+    "title": "PENDIENTES KACHHUA (10MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 40.5
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Kachhua_Oro_Foto_Blanco.jpg?v=1742295410&width=533",
+    "title": "PENDIENTES KACHHUA (10MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 49.5
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Pavana_Foto_Blanco.jpg?v=1742213695&width=533",
+    "title": "PENDIENTES PAVANA (12MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 33.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Pavana_Oro_Foto_Blanco_6e61c442-7d47-486f-8c3b-9e0e5ea29e6d.jpg?v=1742213873&width=533",
+    "title": "PENDIENTES PAVANA (12MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 41.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jivana_30MM_Oro_Foto_Blanco.jpg?v=1749111497&width=533",
+    "title": "PENDIENTES JIVANA (30MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 33.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jivana_35MM_Foto_Blanco.jpg?v=1749111518&width=533",
+    "title": "PENDIENTES JIVANA (35MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 21.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jivana_35MM_Oro_Foto_Blanco.jpg?v=1749111541&width=533",
+    "title": "PENDIENTES JIVANA (35MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 31.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jivana-55MM_Foto_Blanco.jpg?v=1749111569&width=533",
+    "title": "PENDIENTES JIVANA (55MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 29.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Kundale_Izquierdo_Foto_Blanco.jpg?v=1742986197&width=533",
+    "title": "PENDIENTE KUNDALE IZQUIERDO",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 26.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Kundale_Derecho_Foto_Blanco.jpg?v=1742986334&width=533",
+    "title": "PENDIENTE KUNDALE DERECHO",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 26.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Kundale_Izquierdo_Oro_Foto_Blanco.jpg?v=1742986423&width=533",
+    "title": "PENDIENTE KUNDALE IZQUIERDO",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 33.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Kundale_Derecho_Oro_Foto_Blanco.jpg?v=1742986485&width=533",
+    "title": "PENDIENTE KUNDALE DERECHO",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 33.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Ekadik_GIF_Foto_Blanco.gif?v=1741854537&width=533",
+    "title": "PENDIENTES EKADIK",
+    "subtitle": "BAÑADO EN PLATA 925",
+    "price": 39
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Jabari_GIF_Foto_Blanco.gif?v=1733355798&width=533",
+    "title": "PENDIENTES JABARI (16MM) PERSONALIZADOS",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 33.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Ambika_Foto_Blanco.jpg?v=1762785347&width=533",
+    "title": "PENDIENTES AMBIKA (25MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 76.5
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/53882599694_984a988bc8_o.jpg?v=1722411982&width=533",
+    "title": "PENDIENTES JAYA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 45
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Anoop_20MM_Foto_Blanco.jpg?v=1748421881&width=533",
+    "title": "PENDIENTES ANOOP (20MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/54068701823_98c53c9c0a_o.jpg?v=1729066582&width=533",
+    "title": "PENDIENTES VARG",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 23.4
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/53769059280_1ef9ae6162_o.jpg?v=1718804291&width=533",
+    "title": "PENDIENTES DEVDAN",
+    "subtitle": "BAÑADO EN PLATA 925",
+    "price": 52
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/53877709151_375a754fc2_o.jpg?v=1743767366&width=533",
+    "title": "PENDIENTES VISHAL",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 38.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Indumathi_Foto_Puesta_Detalle.jpg?v=1716417639&width=533",
+    "title": "PENDIENTES INDUMATHI (30MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 41.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Jahnu_Foto_Puesta_Primer_Plano.jpg?v=1722516901&width=533",
+    "title": "PENDIENTES JAHNU",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 49.5
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/53784549830_02a939b8d1_o.jpg?v=1722516915&width=533",
+    "title": "PENDIENTES ZILA (25MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 85.5
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Rama_Foto_Blanco_2_1490dbe2-7984-452e-824f-245beb9b08bb.jpg?v=1761202811&width=533",
+    "title": "PENDIENTES RAMA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 55.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/53878038514_5e526e5687_o.jpg?v=1722337815&width=533",
+    "title": "PENDIENTES KRISHA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 39
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Natesa_Foto_Puesta_Detalle.jpg?v=1716449079&width=533",
+    "title": "PENDIENTE NATESA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 38.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Pranay_Foto_Blanco.jpg?v=1748421156&width=533",
+    "title": "PENDIENTES PRANAY (20MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 58.5
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Nirut_Foto_Blanco.jpg?v=1752561782&width=533",
+    "title": "PENDIENTES NIRUT",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 18.85
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Nirut_Oro_Foto_Blanco.jpg?v=1752561816&width=533",
+    "title": "PENDIENTES NIRUT",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 29.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/pendientes-maitri_bae869a3-ce40-4ac6-a5e2-7cfd89c07ad8.jpg?v=1722517293&width=533",
+    "title": "PENDIENTES MAITRI (25MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 55.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/pendientes-balakrishna_990c9b88-f631-4dc6-9ac7-35a59a25f10d.jpg?v=1712906012&width=533",
+    "title": "PENDIENTES BALAKRISHNA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 97.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/54146958577_ab11453b84_o.jpg?v=1734089142&width=533",
+    "title": "PENDIENTES DEVAS",
+    "subtitle": "BAÑADO EN PLATA 925",
+    "price": 39
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/pendientes-devas-oro_005db226-5f4d-41d9-9351-cba2b68b2a76.jpg?v=1724668268&width=533",
+    "title": "PENDIENTES DEVAS",
+    "subtitle": "BAÑADO EN ORO DE 24K",
+    "price": 45
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Achala_12mm_Foto_Blanco.jpg?v=1747903785&width=533",
+    "title": "PENDIENTES ACHALA (12MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 15.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Achala_12mm_Oro_Foto_Blanco_3e0bafe7-2d10-4b0b-9e06-9343a9e6d593.jpg?v=1747903808&width=533",
+    "title": "PENDIENTES ACHALA (12MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 23.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/54965003964_d2c5b8f47f_o.jpg?v=1765807955&width=533",
+    "title": "PENDIENTES ACHALA (16MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Achala_Oro_Foto_Blanco_2065dfdf-9b8c-4f8a-9f56-c231b094e3ad.jpg?v=1736325935&width=533",
+    "title": "PENDIENTES ACHALA (16MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 29.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Achala_18mm_Foto_Blanco.jpg?v=1747903838&width=533",
+    "title": "PENDIENTES ACHALA (18MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Achala_18mm_Oro_Foto_Blanco_7aad5837-6364-4e7d-8e15-862799d63ccd.jpg?v=1747903856&width=533",
+    "title": "PENDIENTES ACHALA (18MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 29.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Achala_25mm_Foto_Blanco.jpg?v=1747128132&width=533",
+    "title": "PENDIENTES ACHALA (25MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 29.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Achala_25mm_Oro_Foto_Blanco.jpg?v=1747128112&width=533",
+    "title": "PENDIENTES ACHALA (25MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 33.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Achala_30mm_Foto_Blanco.jpg?v=1747128009&width=533",
+    "title": "PENDIENTES ACHALA (30MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 31.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Achala_30mmOro__Foto_Blanco.jpg?v=1747127978&width=533",
+    "title": "PENDIENTES ACHALA (30MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 39.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Achala_35mm_Foto_Blanco.jpg?v=1747128075&width=533",
+    "title": "PENDIENTES ACHALA (35MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 33.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Achala_35mmOro__Foto_Blanco.jpg?v=1747128048&width=533",
+    "title": "PENDIENTES ACHALA (35MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 41.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Achala_40mm_Foto_Blanco.jpg?v=1747128185&width=533",
+    "title": "PENDIENTES ACHALA (40MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 36
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Achala_40mm_Oro_Foto_Blanco.jpg?v=1747128162&width=533",
+    "title": "PENDIENTES ACHALA (40MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 44
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Chiranjivi_Foto_Blanco.jpg?v=1756727511&width=533",
+    "title": "PENDIENTES CHIRANJIVI",
+    "subtitle": "BAÑADO EN PLATA 925",
+    "price": 55.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/flores.jpg?v=1724667946&width=533",
+    "title": "PENDIENTES CHIRANJIVI",
+    "subtitle": "BAÑADO EN ORO DE 24K",
+    "price": 67.5
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Balun_Foto_Blanco.jpg?v=1747904832&width=533",
+    "title": "PENDIENTES BALUN (20MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 38.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Balun_Oro_Foto_Blanco.jpg?v=1747905069&width=533",
+    "title": "PENDIENTES BALUN (20MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 46.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/pendientes-sai_7afba738-0ba3-4749-9757-41cb28f2e5e3.jpg?v=1704985801&width=533",
+    "title": "PENDIENTES SAI",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 33
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/pendientes-angoothee.jpg?v=1704983913&width=533",
+    "title": "PENDIENTES ANGOOTHEE",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 33
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/pendientes-rasasvada_4becdf3e-2a23-4bef-b862-3cadb78b52e4.jpg?v=1704983404&width=533",
+    "title": "PENDIENTES RASVADA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 38.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Lela_Foto_Blanco.jpg?v=1752226173&width=533",
+    "title": "PENDIENTE LELA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 31.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/54533052570_9fbfc89897_o.jpg?v=1762779780&width=533",
+    "title": "PENDIENTE KAUR",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 31.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/54532971703_334a43fb3e_o.jpg?v=1762779764&width=533",
+    "title": "PENDIENTE KANTI",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 29.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pendientes-pegasus_b2767895-f344-460c-8bff-54d5eac215c1.jpg?v=1704986413&width=533",
+    "title": "PENDIENTES PEGASUS (10MM)",
+    "subtitle": "ORO 9K",
+    "price": 216
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Hemlata_Foto_Blanco.jpg?v=1747903880&width=533",
+    "title": "PENDIENTES HEMLATA (30MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 55.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Hemlata_Oro_Foto_Blanco.jpg?v=1747903895&width=533",
+    "title": "PENDIENTES HEMLATA (30MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 63.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pendientes-nayath.jpg?v=1722517611&width=533",
+    "title": "PENDIENTES NAYATH",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 38.5
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/pendientes-tamas.jpg?v=1704984892&width=533",
+    "title": "PENDIENTES TAMAS",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 49
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pendientes-vela_e413dabc-645b-43b4-b24a-03c9694175fc.jpg?v=1704987792&width=533",
+    "title": "PENDIENTES VELA (12MM)",
+    "subtitle": "ORO 9K",
+    "price": 216
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/pendientes-bhajan_cf71add4-1c57-43d1-839f-8f3989a7be32.jpg?v=1722517531&width=533",
+    "title": "PENDIENTES BHAJAN",
+    "subtitle": "BAÑADO EN PLATA 925",
+    "price": 31.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pendientes-darsha_d91300ef-c254-4223-a5dc-4d1814658e6b.jpg?v=1704982553&width=533",
+    "title": "PENDIENTES DARSHA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 31.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Sunashi_Foto_Blanco.jpg?v=1762779844&width=533",
+    "title": "PENDIENTES SUNASHI (25MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 41.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/pendientes-siddhi_411dae46-25a1-4cc7-8646-e256c21c0c93.jpg?v=1704984528&width=533",
+    "title": "PENDIENTES SIDDHI",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 42
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/pendientes-indu_a116f822-90fb-4f38-9298-a0b2835c3e6e.jpg?v=1709638344&width=533",
+    "title": "PENDIENTES INDU",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 33.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pendientes-indu-oro_2f7d751b-350c-403d-b934-1754506127a9.jpg?v=1704981890&width=533",
+    "title": "PENDIENTES INDU",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 44
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pack-saroj_78bbbf3b-0bde-4c76-b1ec-e615be007805.jpg?v=1704987241&width=533",
+    "title": "PACK SAROJ",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 26.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pack-amul_406f24ce-bfd8-4429-a95a-b08f538dcace.jpg?v=1704985520&width=533",
+    "title": "PACK AMUL",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 21.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/UDAAN.jpg?v=1704986436&width=533",
+    "title": "PENDIENTES UDAAN",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 12.6
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/pendientes-karun_8004cb16-2b6f-4e11-8495-81ddf94497b7.jpg?v=1704984068&width=533",
+    "title": "PENDIENTES KARUN (14MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 23.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/pendientes-chaand.jpg?v=1704983472&width=533",
+    "title": "PENDIENTES CHAAND",
+    "subtitle": "BAÑADO EN PLATA 925",
+    "price": 52
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/pendientes-chaand-oro_f0598ee7-7cf6-4989-aa16-ab2f50cf811e.jpg?v=1704982150&width=533",
+    "title": "PENDIENTES CHAAND",
+    "subtitle": "BAÑADO EN ORO DE 24K",
+    "price": 45
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pendientes-sharmila.jpg?v=1704988488&width=533",
+    "title": "PENDIENTES SHARMILA (10MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 36
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pendientes-sharmila-oro.jpg?v=1704982265&width=533",
+    "title": "PENDIENTES SHARMILA (10MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 44
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/54277150909_3fd1c31200_o.jpg?v=1737456447&width=533",
+    "title": "PENDIENTES LILAVATI",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 36
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Lilavati_Oro_Foto_Blanco.jpg?v=1767798112&width=533",
+    "title": "PENDIENTES LILAVATI",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 33
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Asabab_Foto_Blanco.jpg?v=1733312992&width=533",
+    "title": "PENDIENTES ASABAB (16MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 46.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Asabab_Oro_foto_Blanco.jpg?v=1744184596&width=533",
+    "title": "PENDIENTES ASABAB (16MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 55.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Babari_foto_Blanco_9a03eec7-3339-4918-8a5f-47395c51a583.jpg?v=1744184518&width=533",
+    "title": "PENDIENTES BABARI (16MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 46.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Babari_Oro_foto_Blanco.jpg?v=1744184440&width=533",
+    "title": "PENDIENTES BABARI (16MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 39
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Darthi_Foto_Blanco.jpg?v=1748421313&width=533",
+    "title": "PENDIENTES DHARTI (20MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 38.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Darthi_Oro_Foto_Blanco.jpg?v=1748421281&width=533",
+    "title": "PENDIENTES DHARTI (20MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 46.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Kaveri_Oro_Foto_Blanco.jpg?v=1767015550&width=533",
+    "title": "PENDIENTES KAVERI (16MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 26.1
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pendientes-rehana.jpg?v=1704987493&width=533",
+    "title": "PENDIENTES REHANA (16MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 21.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Shalini_Fondo_Blanco.jpg?v=1722418200&width=533",
+    "title": "PIERCING SHALINI",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Shalini_Oro_Foto_Blanco.jpg?v=1741172446&width=533",
+    "title": "PIERCING SHALINI",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 29.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Andakar_Bodegon.jpg?v=1722418325&width=533",
+    "title": "PIERCING ANDAKAR",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Septum_Rang_Fondo_Blanco.jpg?v=1722420345&width=533",
+    "title": "EAR CUFF RANG",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 17.1
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Septum_Kali_Fondo_Blanco.jpg?v=1722420073&width=533",
+    "title": "EAR CUFF KALI",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 17.1
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Septum_Gulab_Fondo_Blanco.jpg?v=1722419827&width=533",
+    "title": "EAR CUFF GULAB",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 17.1
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/53768829958_a2434370ec_o.jpg?v=1718803723&width=533",
+    "title": "PIERCING USRA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Gopinath_Foto_Blanco.jpg?v=1753085887&width=533",
+    "title": "PIERCING GOPINATH",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Aditya_Foto_Blanco_d5e51051-7945-467f-836b-107fd393d061.jpg?v=1752571439&width=533",
+    "title": "PIERCING ADITYA (10MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 17.4
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Narad_Foto_Blanco.jpg?v=1753085785&width=533",
+    "title": "PIERCING NARAD (10MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 17.4
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Bharat_Foto_Blanco_8d842bfa-2ffa-4bd3-bb20-443aed5ab3b7.jpg?v=1752571464&width=533",
+    "title": "PIERCING BHARAT (10MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 17.4
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Abhay_Foto_Blanco.jpg?v=1754373911&width=533",
+    "title": "PIERCING ABHAY (10MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 23.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Abhay_Oro_Foto_Blanco_a2064301-8326-49e9-b5e5-ec92730a65bb.jpg?v=1754033263&width=533",
+    "title": "PIERCING ABHAY (10MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 31.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Harsha_Foto_Blanco.jpg?v=1753085834&width=533",
+    "title": "PIERCING HARSHA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 23.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Shankara_Foto_Blanco.jpg?v=1754374050&width=533",
+    "title": "PIERCING SHANKARA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Shankara_Oro_Foto_Blanco.jpg?v=1754374087&width=533",
+    "title": "PIERCING SHANKARA",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 29.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Vatankal_Foto_Puesta_Primer_Plano.jpg?v=1716448989&width=533",
+    "title": "EAR CUFF VATANKAL",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 33.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendiente_Daivat_Foto_Puesta_Detalle.jpg?v=1722517080&width=533",
+    "title": "EAR CUFF DAIVAT",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 33.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Earcuff_Monga_Derecha_Foto_Blanco.jpg?v=1747037025&width=533",
+    "title": "EAR CUFF MONGA DERECHO",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 21
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Earcuff_Monga_Derecha_Oro_Foto_Blanco.jpg?v=1747037063&width=533",
+    "title": "EAR CUFF MONGA DERECHO",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 31.5
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Earcuff_Monga_Izquierda_Foto_Blanco.jpg?v=1747037044&width=533",
+    "title": "EAR CUFF MONGA IZQUIERDO",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 21
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Earcuff_Monga_Izquierda_Oro_Foto_Blanco.jpg?v=1747037079&width=533",
+    "title": "EAR CUFF MONGA IZQUIERDO",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 27
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Earcuff_Taramachale_Derecha_Foto_Blanco.jpg?v=1747037340&width=533",
+    "title": "EAR CUFF TARAMACHALE DERECHA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 21
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Earcuff_Taramachale_Derecha_Oro_Foto_Blanco.jpg?v=1747037385&width=533",
+    "title": "EAR CUFF TARAMACHALE DERECHA",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 27
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Earcuff_Taramachale_Izquierda_Foto_Blanco.jpg?v=1747037368&width=533",
+    "title": "EAR CUFF TARAMACHALE IZQUIERDO",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.5
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Earcuff_Taramachale_Izquierda_Oro_Foto_Blanco.jpg?v=1747037415&width=533",
+    "title": "EAR CUFF TARAMACHALE IZQUIERDO",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 27
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/53768822448_c98bd68516_o.jpg?v=1718803674&width=533",
+    "title": "EAR CUFF KATTATI",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 29.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/53768630566_0265a6bf7a_o.jpg?v=1718803687&width=533",
+    "title": "EAR CUFF KATTATI",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 38.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Earcuff_Kanee_Oro_Foto_Blanco.jpg?v=1751527255&width=533",
+    "title": "EAR CUFF KANEE",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 33.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Earcuff_Kanee_Foto_Blanco.jpg?v=1753086408&width=533",
+    "title": "EAR CUFF KANEE",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Earcuff_Nidhi_Foto_Blanco.jpg?v=1751527274&width=533",
+    "title": "EAR CUFF NIDHI",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Earcuff_Sur_Foto_Blanco.jpg?v=1747902084&width=533",
+    "title": "EAR CUFF SUR",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pendiente-thre_17337a1b-a5e0-4a41-8b0d-e20be141dc15.jpg?v=1704983993&width=533",
+    "title": "EAR CUFF THRE",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 12
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Earcuff_Dhaari_Foto_Blanco.jpg?v=1753086434&width=533",
+    "title": "EAR CUFF DHAARI",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Earcuff_Dhaari_Oro_Foto_Blanco.jpg?v=1751527207&width=533",
+    "title": "EAR CUFF DHAARI",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 33.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Earcuff_Qalamat_Foto_Blanco.jpg?v=1754373810&width=533",
+    "title": "EAR CUFF QALAMAT",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 21.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Earcuff_Dama_Foto_Blanco.jpg?v=1751527182&width=533",
+    "title": "EAR CUFF DAMA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 21.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/earcuff_4b35e1dd-4114-4fde-a09d-31728fbd0473.jpg?v=1722517351&width=533",
+    "title": "EAR CUFF NIMI",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 16.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Sandip_Foto_Blanco.jpg?v=1762784479&width=533",
+    "title": "PIERCING SANDIP",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 23.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Sandip_Oro_Foto_Blanco.jpg?v=1762784521&width=533",
+    "title": "PIERCING SANDIP",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 28
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercings_Shankar_Foto_Blanco.jpg?v=1762784766&width=533",
+    "title": "PIERCINGS SHANKAR (10MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 23.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Venkat_Amazonita_Foto_Blanco.jpg?v=1749111201&width=533",
+    "title": "PIERCINGS VENKAT AMAZONITA (10MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 23.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Jayashri_Foto_Blanco.jpg?v=1752663276&width=533",
+    "title": "PIERCINGS JAYASHRI (10MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 23.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Harendra_Foto_Blanco.jpg?v=1762784270&width=533",
+    "title": "PIERCING HARENDRA (10MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 14.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Harendra_Oro_Foto_Blanco.jpg?v=1762784368&width=533",
+    "title": "PIERCING HARENDRA (10MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 20
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercings_Dayaram_Foto_Blanco.jpg?v=1762784577&width=533",
+    "title": "PIERCINGS DAYARAM (10MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercings_Dayaram_Oro_Foto_Blanco.jpg?v=1762784620&width=533",
+    "title": "PIERCINGS DAYARAM (10MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 33.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercings_Amala_Foto_Blanco.jpg?v=1754374141&width=533",
+    "title": "PIERCINGS AMALA (10MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 14.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Akhil_Foto_Blanco.jpg?v=1762784157&width=533",
+    "title": "PIERCING AKHIL",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 23.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercing_Omana_Blanco.jpg?v=1734518781&width=533",
+    "title": "PIERCINGS OMANA (12MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 21.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/SUNILAjpg.jpg?v=1704984458&width=533",
+    "title": "PIERCINGS SUNILA TOPACIO AZUL (10MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 13.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Piercings_Tiya_Foto_Blanco.jpg?v=1747901833&width=533",
+    "title": "PIERCINGS TIYA (10MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 14.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/54276909646_6eb9d73f7d_o.jpg?v=1737458280&width=533",
+    "title": "PENDIENTES RAMANA (18MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/54277338620_13e7e9fdcf_o.jpg?v=1737459826&width=533",
+    "title": "PENDIENTES RAMANA (18MM)",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 35.1
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Latika_Foto_Blanco.jpg?v=1761640446&width=533",
+    "title": "PENDIENTES LATIKA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 21.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pendientes-kekada_4b1fecad-6147-4a82-9bcc-b1e02df63566.jpg?v=1722517933&width=533",
+    "title": "PENDIENTES KEKADA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 13.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Dhiana_Foto_Blanco.jpg?v=1756727822&width=533",
+    "title": "PENDIENTES DHIANA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 33.15
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Bhakati_Foto_Blanco.jpg?v=1756727548&width=533",
+    "title": "PENDIENTES BHAKATI (16MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 23.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Tirtha_30mm_Foto_Blanco_cbfe5c15-ed23-4905-bd90-4944b5d94984.jpg?v=1759307017&width=533",
+    "title": "PENDIENTES TIRTHA (30MM)",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 62.1
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Mandaliyaan_Foto_Blanco.jpg?v=1765811904&width=533",
+    "title": "PENDIENTES MANDALIYAAN",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 23.2
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pack-vedas.jpg?v=1704982359&width=533",
+    "title": "PACK VEDAS",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 21.75
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pack-nath.jpg?v=1704983696&width=533",
+    "title": "PACK NATH",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 16.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pack_Anil_Foto_Blanco.jpg?v=1762783637&width=533",
+    "title": "PACK ANIL",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 26.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pack-shantala_d95e1ea6-ad02-4eec-8732-1e2efb9aa877.jpg?v=1704987761&width=533",
+    "title": "PACK SHANTALA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 21.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pack_Nilay_Foto_Blanco.jpg?v=1754300682&width=533",
+    "title": "PACK NILAY",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 20.3
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/products/pack-nirali.jpg?v=1704982404&width=533",
+    "title": "PACK NIRALI",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 24.65
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Lalima_Foto_Blanco.jpg?v=1762783279&width=533",
+    "title": "PENDIENTES LALIMA",
+    "subtitle": "PLATA DE LEY 925",
+    "price": 20.3
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Lalima_Oro_Foto_Blanco_03afeeed-e604-49e0-b5eb-244071810708.jpg?v=1751525519&width=533",
+    "title": "PENDIENTES LALIMA",
+    "subtitle": "PLATA BAÑADA EN ORO DE 22K",
+    "price": 29.25
+  },
+  {
+    "img": "https://sansarushop.com/cdn/shop/files/Pendientes_Mayur_Foto_Blanco.jpg?v=1747903965&width=533",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  },
+  {
+    "img": "https://via.placeholder.com/300x300?text=No+Image",
+    "title": "Sin título",
+    "subtitle": "Sin subtítulo",
+    "price": 0
+  }
+]
