@@ -90,10 +90,9 @@ Título: PENDIENTES ARAVINDA (16MM)
 Precio: 36
 ✅ Guardado en DB
 
---- Producto 2/384 ---
-Título: PENDIENTES ARAVINDA (16MM)
-Precio: 44
-✅ Guardado en DB
+🎉 Total productos recolectados: 384 (example)
+✅ Archivo products.json escrito correctamente
+Navegador cerrado
 ```
 
 Execution steps sum up:
