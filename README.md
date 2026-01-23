@@ -104,17 +104,26 @@ Execution steps sum up:
 5. Storing to database.
 6. Generate products.json file.
 
+## Executing API Server
+To initialize Express server:
+```
+npm start
+# or development mode
+npm run dev
+```
+Server available in ```http://localhost:4000```
+
 ## 📡 API Endpoints
-´´´
+```
       getAllEarings: "GET /api/v1/earings",
       getEaringById: "GET /api/v1/earings/:id",
       createEaring: "POST /api/v1/earings",
       updateEaring: "PUT /api/v1/earings/:id",
       deleteEaring: "DELETE /api/v1/earings/:id",
-´´´
+```
 
-# Create a new product
-´´´
+## Create a new product
+```
 http
 POST /api/v1/earings
 {
@@ -123,27 +132,76 @@ POST /api/v1/earings
 "subtitle": "Elegantes",
 "price": 29.99
 }
-´´´
+```
 
-# Update a product
-´´´
+## Update a product
+```
 http
 PUT /api/v1/earings:id
 {
 "price": 24.99
 }
-´´´
+```
 
-# Delete a product
-´´´
+## Delete a product
+```
 http
 DELETE /api/v1/earings:id
-´´´
+```
 
+## 🔧 Scripts
+```
+{
+"start": "node server.js", // Starts server
+"dev": "nodemon server.js", // Server development mode
+"scrap": "node src/utils/scrapper.js" // Executes scrapper
+}
+```
 
+## Data model
+```
+javascript
+{
+img: String, // img URL (by default: placeholder)
+title: String, // Product title (by default: "Sin título")
+subtitle: String, // Subtitle (by default: "Sin subtítulo")
+price: Number, // Product price (by default: 0)
+createdAt: Date, // Creation date (automatic)
+updatedAt: Date // Update date (automatic)
+}
+```
 
+---
 
+## ⚠️
+Sraper handles automatically the following:
+- Cookies banners.
+- Popups newsletter.
+- Infinite scroll to load products.
+- By default values in case it does not find a specific data.
+Price conversion
+- Removes € symbol
+- Converts comas into decimal dots.
+- Saves as a number on database.
+## 🐛 Bugs. Problem solutions:
+- Verify that MongoDB is executing.
+- Review enviroment variables on .env.
+- Make sure you have Chrome (Puppeteer use this browser).
+## Error connecting to MongoDB
+- Verify that DB_URL from .env is correct.
+- Make sure that MongoDB is active.
+## In case it does not found products:
+- Website might changed HTML sturcture.
+- Review selectors on scrapper.js
+  
+---
 
+## 👩🏼‍💻 Author
+Ren-mayday
+- GitHub: https://github.com/Ren-mayday
+- Repository: https://github.com/Ren-mayday/proyecto-9-web-scrapping
+
+## Project developed as part of RockTheCode - ThePower Education alumni.
 
 
 
