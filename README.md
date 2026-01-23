@@ -49,3 +49,102 @@ npm install
 PORT=4000
 DB_URL=mongodb+srv://{db_name:password@cluster...}
 ```
+
+## 🚀 Executing
+Initializing Scraper process:
+
+```
+npm run scrap
+**Whay you should see on Terminal if it executes successfully**
+✅ Base de datos conectada correctamente
+Iniciando scapper
+Navegando a la página...
+✅ Página cargada (DOM ready)
+Esperando elementos...
+Banner de cookies aceptado
+Popup cerrado
+Esperando a que se carguen los productos iniciales...
+✅ Productos iniciales detectados
+Productos visibles antes del scroll: 48
+Nuevos productos cargados - Scroll 1/15
+Nuevos productos cargados - Scroll 2/15
+Nuevos productos cargados - Scroll 3/15
+Nuevos productos cargados - Scroll 4/15
+Sin cambios en altura (1/3) - Scroll 5/15
+Nuevos productos cargados - Scroll 6/15
+Nuevos productos cargados - Scroll 7/15
+Nuevos productos cargados - Scroll 8/15
+Sin cambios en altura (1/3) - Scroll 9/15
+Nuevos productos cargados - Scroll 10/15
+Nuevos productos cargados - Scroll 11/15
+Sin cambios en altura (1/3) - Scroll 12/15
+Nuevos productos cargados - Scroll 13/15
+Nuevos productos cargados - Scroll 14/15
+Nuevos productos cargados - Scroll 15/15
+ión...
+
+📦 Total productos encontrados: 384
+
+--- Producto 1/384 ---
+Título: PENDIENTES ARAVINDA (16MM)
+Precio: 36
+✅ Guardado en DB
+
+--- Producto 2/384 ---
+Título: PENDIENTES ARAVINDA (16MM)
+Precio: 44
+✅ Guardado en DB
+```
+
+Execution steps sum up:
+1. Connect to MongoDB.
+2. Navigating through website products.
+3. Automatic scroll to load all products.
+4. Data extraction of each product.
+5. Storing to database.
+6. Generate products.json file.
+
+## 📡 API Endpoints
+´´´
+      getAllEarings: "GET /api/v1/earings",
+      getEaringById: "GET /api/v1/earings/:id",
+      createEaring: "POST /api/v1/earings",
+      updateEaring: "PUT /api/v1/earings/:id",
+      deleteEaring: "DELETE /api/v1/earings/:id",
+´´´
+
+# Create a new product
+´´´
+http
+POST /api/v1/earings
+{
+"img": "https//example.com/image.jpg",
+"title": "Pendientes de plata",
+"subtitle": "Elegantes",
+"price": 29.99
+}
+´´´
+
+# Update a product
+´´´
+http
+PUT /api/v1/earings:id
+{
+"price": 24.99
+}
+´´´
+
+# Delete a product
+´´´
+http
+DELETE /api/v1/earings:id
+´´´
+
+
+
+
+
+
+
+
+
