@@ -113,13 +113,14 @@ npm run dev
 Server available in ```http://localhost:4000```
 
 ## 📡 API Endpoints
-```
-      getAllEarings: "GET /api/v1/earings",
-      getEaringById: "GET /api/v1/earings/:id",
-      createEaring: "POST /api/v1/earings",
-      updateEaring: "PUT /api/v1/earings/:id",
-      deleteEaring: "DELETE /api/v1/earings/:id",
-```
+
+| controllers | Method | Endpoint |
+|---------------|--------|----------|
+| getAllEarings | GET | /api/v1/earings |
+| getEaringById | GET | /api/v1/earings/:id |
+| createEaring | POST | /api/v1/earings" |
+| updateEaring | PUT | /api/v1/earings/:id |
+| deleteEaring | DELETE | /api/v1/earings/:id |
 
 ## Create a new product
 ```
