@@ -117,10 +117,10 @@ Server available in ```http://localhost:4000```
 | controllers | Method | Endpoint |
 |---------------|--------|----------|
 | getAllEarings | GET | /api/v1/earings |
-| getEaringById | GET | /api/v1/earings/:id |
-| createEaring | POST | /api/v1/earings |
-| updateEaring | PUT | /api/v1/earings/:id |
-| deleteEaring | DELETE | /api/v1/earings/:id |
+| getEaringsById | GET | /api/v1/earings/:id |
+| createEarings | POST | /api/v1/earings |
+| updateEarings | PUT | /api/v1/earings/:id |
+| deleteEarings | DELETE | /api/v1/earings/:id |
 
 ## Create a new product
 ```
@@ -196,7 +196,7 @@ Price conversion
   
 ---
 
-## 👩🏼‍💻 Author
+## 👩🏽‍💻 Author
 Ren-mayday
 - GitHub: https://github.com/Ren-mayday
 - Repository: https://github.com/Ren-mayday/proyecto-9-web-scrapping
