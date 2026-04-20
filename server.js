@@ -2,7 +2,6 @@ require("dotenv").config();
 const express = require("express");
 const { connectDB } = require("./src/config/db");
 const earingsRoutes = require("./src/api/routes/earingsRoutes");
-const { deleteEaring } = require("./src/api/controllers/earingsControllers");
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -22,10 +21,10 @@ app.get("/", (req, res) => {
     message: "API de Pendientes (productos de San Saru) funcionando correctamente",
     endpoints: {
       getAllEarings: "GET /api/v1/earings",
-      getEaringById: "GET /api/v1/earings/:id",
-      createEaring: "POST /api/v1/earings",
-      updateEaring: "PUT /api/v1/earings/:id",
-      deleteEaring: "DELETE /api/v1/earings/:id",
+      getEaringsById: "GET /api/v1/earings/:id",
+      createEarings: "POST /api/v1/earings",
+      updateEarings: "PUT /api/v1/earings/:id",
+      deleteEarings: "DELETE /api/v1/earings/:id",
     },
   });
 });

@@ -11,7 +11,7 @@ const getEarings = async (req, res) => {
 };
 
 // GET - obtener un earing por ID
-const getEaringById = async (req, res) => {
+const getEaringsById = async (req, res) => {
   try {
     const earing = await Earings.findById(req.params.id);
     if (!earing) {
@@ -24,7 +24,7 @@ const getEaringById = async (req, res) => {
 };
 
 // POST - crear nuevo earing
-const createEaring = async (req, res) => {
+const createEarings = async (req, res) => {
   try {
     const newEaring = await Earings.create(req.body);
     res.status(201).json(newEaring);
@@ -34,9 +34,9 @@ const createEaring = async (req, res) => {
 };
 
 // PUT - actualizar un earing
-const updateEaring = async (req, res) => {
+const updateEarings = async (req, res) => {
   try {
-    const updated = await Earing.findByIdAndUpdate(req.params.id, req.body, { new: true, runValidators: true });
+    const updated = await Earings.findByIdAndUpdate(req.params.id, req.body, { new: true, runValidators: true });
     if (!updated) {
       return res.status(404).json({ message: "Pendientes no encontrados" });
     }
@@ -47,7 +47,7 @@ const updateEaring = async (req, res) => {
 };
 
 // DELETE - eliminar un earing
-const deleteEaring = async (req, res) => {
+const deleteEarings = async (req, res) => {
   try {
     const deleted = await Earings.findByIdAndDelete(req.params.id);
     if (!deleted) {
@@ -61,8 +61,8 @@ const deleteEaring = async (req, res) => {
 
 module.exports = {
   getEarings,
-  getEaringById,
-  createEaring,
-  updateEaring,
-  deleteEaring,
+  getEaringsById,
+  createEarings,
+  updateEarings,
+  deleteEarings,
 };

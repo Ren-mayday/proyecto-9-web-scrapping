@@ -1,3 +1,4 @@
+require("dotenv").config();
 const puppeteer = require("puppeteer");
 const fs = require("fs").promises;
 const Earings = require("../api/models/Earings");
@@ -20,15 +21,15 @@ const autoScroll = async (page) => {
 
   while (unchangedCount < 3 && scrollCount < MAX_SCROLLS) {
     scrollCount++;
-    
+
     // Hacer scroll hacia abajo
     await page.evaluate("window.scrollTo(0, document.body.scrollHeight)");
-    
+
     // Esperar un momento para que carguen nuevos productos
     await wait(2000);
 
     const currentHeight = await page.evaluate(() => document.body.scrollHeight);
-    
+
     if (currentHeight === previousHeight) {
       unchangedCount++;
       console.log(`Sin cambios en altura (${unchangedCount}/3) - Scroll ${scrollCount}/${MAX_SCROLLS}`);
@@ -36,10 +37,10 @@ const autoScroll = async (page) => {
       unchangedCount = 0;
       console.log(`Nuevos productos cargados - Scroll ${scrollCount}/${MAX_SCROLLS}`);
     }
-    
+
     previousHeight = currentHeight;
   }
-  
+
   if (scrollCount >= MAX_SCROLLS) {
     console.log(`⚠️ Límite de scrolls alcanzado (${MAX_SCROLLS}), continuando con extracción...`);
   } else {
@@ -49,44 +50,39 @@ const autoScroll = async (page) => {
 
 const scrap = async (url) => {
   const arrayEarings = [];
-  
+
   console.log("Iniciando scrapper");
 
   const browser = await puppeteer.launch({
     headless: false,
     defaultViewport: null,
-    args: [
-      "--no-first-run", 
-      "--no-default-browser-check", 
-      "--disable-sync", 
-      "--disable-features=ChromeWhatsNewUI"
-    ],
+    args: ["--no-first-run", "--no-default-browser-check", "--disable-sync", "--disable-features=ChromeWhatsNewUI"],
   });
 
   const page = await browser.newPage();
-  
-  // Configurar timeout más largo 
+
+  // Configurar timeout más largo
   page.setDefaultTimeout(120000); // 2 minutos
   page.setDefaultNavigationTimeout(120000); // 2 minutos
-  
+
   console.log("Navegando a la página...");
-  
+
   try {
     // Intentar con domcontentloaded (más rápido)
-    await page.goto(url, { 
-      waitUntil: "domcontentloaded", 
-      timeout: 120000 
+    await page.goto(url, {
+      waitUntil: "domcontentloaded",
+      timeout: 120000,
     });
     console.log("✅ Página cargada (DOM ready)");
   } catch (error) {
     console.log("⚠️ Timeout en primera carga, reintentando...");
     // Reintentar con estrategia aún más permisiva
-    await page.goto(url, { 
-      waitUntil: "load", 
-      timeout: 0  // Sin timeout
+    await page.goto(url, {
+      waitUntil: "load",
+      timeout: 0, // Sin timeout
     });
   }
-  
+
   console.log("Esperando elementos...");
 
   // Espera inicial para que cargue contenido dinámico
@@ -121,9 +117,9 @@ const scrap = async (url) => {
   // IMPORTANTE: Esperar a que los productos se carguen ANTES del scroll
   console.log("Esperando a que se carguen los productos iniciales...");
   try {
-    await page.waitForSelector(".product-card-wrapper", { 
+    await page.waitForSelector(".product-card-wrapper", {
       timeout: 15000,
-      visible: true 
+      visible: true,
     });
     console.log("✅ Productos iniciales detectados");
   } catch (error) {
@@ -242,7 +238,7 @@ const main = async () => {
     const url = "https://sansarushop.com/collections/pendientes";
 
     await scrap(url);
-    
+
     console.log("\n🎉 Scrapping completado exitosamente");
     process.exit(0);
   } catch (error) {
