@@ -85,8 +85,8 @@ const scrap = async (url) => {
 
   console.log("Esperando elementos...");
 
-  // Espera inicial para que cargue contenido dinámico
-  await wait(5000);
+  // Espera inicial: en lugar de un tiempo fijo, esperamos a que el body esté listo
+  await page.waitForSelector("body", { visible: true, timeout: 30000 });
 
   // Aceptar cookies
   try {
